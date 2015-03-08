@@ -1,6 +1,6 @@
 body{
-    background-color: indianred;
+    background-color: aliceblue;
 }
-h1{
-    color:aliceblue;
+h1, p{
+    color:indianred;
 }
